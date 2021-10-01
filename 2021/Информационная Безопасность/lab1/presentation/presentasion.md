@@ -19,8 +19,27 @@ aspectratio: 43
 section-titles: true
 ---
 
-# Презентация лабораторной работы №2
-[TOC]
+# Презентация лабораторной работы 
+---
+## Front matter
+lang: ru-RU
+title: Лабораторная работа №1
+author: Пак Мария 
+institute: RUDN University, Moscow, Russian Federation
+date: 2021 Moscow, Russia
+
+## Formatting
+toc: false
+slide_level: 2
+theme: metropolis
+header-includes: 
+ - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+ - '\makeatletter'
+ - '\beamer@ignorenonframefalse'
+ - '\makeatother'
+aspectratio: 43
+section-titles: true
+---
 
 ## Прагматика выполнения лабораторной работы
 
